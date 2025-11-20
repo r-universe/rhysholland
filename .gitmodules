@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "fairGATE"]
+	path = fairGATE
+	url = https://github.com/rhysholland/fairgate
 [submodule "fairGNN"]
 	path = fairGNN
 	url = https://github.com/cran/fairGNN
